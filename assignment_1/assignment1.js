@@ -21,7 +21,8 @@ Test that you used the array push method correctly by printing the sum of the va
 The outputted value should be 9.
 */
 
-console.log(sum([3,6]));
+var sum = numbers[3] + numbers[6];
+console.log(sum);
 
 
 /*
@@ -30,9 +31,14 @@ Use the console.log() function and the array .pop() to add all the values in the
 */
 
 var sum = 0;
+
+while(numbers.length !=0){
+    numbers.pop();
+}
 /* remove this line to uncomment the code block
 while(numbers.length != 0){
     //write pop function here
+ 
 }
 remove this line to uncomment the code block */
 
@@ -52,5 +58,6 @@ Give the car object a property called "colour" and assign it the value of "black
 var car = {
     colour : 'black'
 };
+console.log(car);
 
 
