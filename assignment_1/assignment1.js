@@ -2,7 +2,7 @@
 Exercise #1----push test
 Initialize an empty array below in the variable numbers.
 */
-
+//
 var numbers = [];
 
 /*
