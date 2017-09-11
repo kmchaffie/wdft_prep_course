@@ -77,14 +77,15 @@ div
 }
 
 .c3 {
-	position: fixed;
+	position: relative;
+	left: 510px;
+	top: 20px;
 	
 }
 
 .d3 {
-	position: relative;
-	right: -200px;
-	top:-150px;
-	
+	position: fixed;
+	top: 200px;
+	right:30%;
 	
 }
