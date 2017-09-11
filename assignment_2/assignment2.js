@@ -7,7 +7,6 @@ var i;
 for(i=1;i<=100;i++){
 		console.log(i);
 	}
-
 /*
 Exercise #2
 Write a loop that makes seven calls to console.log to output the following triangle:
