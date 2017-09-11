@@ -1,8 +1,8 @@
 /*
-Exercise #1----push test
+Exercise #1
 Initialize an empty array below in the variable numbers.
 */
-//
+
 var numbers = [];
 
 /*
@@ -14,7 +14,7 @@ for(var i=0;i<10;i++){
     numbers.push(i); 
 }
  //use the array push() method here.
-//g
+ 
 /*
 Exercise #3
 Test that you used the array push method correctly by printing the sum of the values at position 3 and 6 of the array (use the console.log() function to print to the console). 
