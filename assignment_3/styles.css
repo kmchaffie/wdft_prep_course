@@ -66,28 +66,25 @@ div
 /* THIRD ROW : POSITION */
 
 .a3 {
-	
-
-	
+	position:absolute;
 }
 
 .b3 {
 	position: relative;
-	right: -30px;
+	right: -150px;
 	top: -50px;
-	
 
 }
 
 .c3 {
-	position: relative;
-	right: -950px;
-	bottom: -50px;
+	position: fixed;
+	
 }
 
 .d3 {
 	position: relative;
-	right: -250px;
-	top: -150px;
-
+	right: -200px;
+	top:-150px;
+	
+	
 }
