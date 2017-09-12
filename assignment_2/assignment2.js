@@ -20,7 +20,7 @@ Write a loop that makes seven calls to console.log to output the following trian
 #######
 */
 
-var triangle = '';
+var triangle = '#';
 
 for (var i = 0; i < 7; i++) {
     triangle = triangle + '#';
